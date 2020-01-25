@@ -1,4 +1,4 @@
-## MYPORTFOLIO
+## MY PORTFOLIO
 
 Link: https://abdul-fatai.github.io
 
